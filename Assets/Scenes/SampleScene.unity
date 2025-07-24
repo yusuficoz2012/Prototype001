@@ -552,7 +552,7 @@ MonoBehaviour:
   gravity: 9.81
   cameraTransform: {fileID: 1840120192}
   mouseSensitivity: 3
-  cameraOffset: {x: 0, y: 2, z: -4}
+  cameraOffset: {x: 0, y: 2, z: -5.3}
   minPitch: -30
   maxPitch: 60
   animator: {fileID: 959811640}
@@ -716,13 +716,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1840120191}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.13993654, y: -0, z: -0, w: 0.9901605}
-  m_LocalPosition: {x: 0, y: 3.4899986, z: -4.87}
+  m_LocalRotation: {x: 0.15710898, y: -0, z: -0, w: 0.9875814}
+  m_LocalPosition: {x: 0, y: 3.6200001, z: -5.310001}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 959811644}
-  m_LocalEulerAnglesHint: {x: 16.088, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 18.078, y: 0, z: 0}
 --- !u!114 &1840120193
 MonoBehaviour:
   m_ObjectHideFlags: 0
